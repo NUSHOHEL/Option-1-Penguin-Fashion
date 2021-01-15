@@ -1,0 +1,156 @@
+.logo{
+    width: 280px;
+    height: auto;
+    margin-left: 20px;
+}
+.banner_main {
+	position: relative;
+	
+}
+.card-body{
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+}
+.card-img{
+    width: 60% ;
+    border-radius: 20px;
+    height: 50%;
+
+}
+.card-img img{
+    margin-top: 5%;
+}
+
+.card-background{
+    background-color: #F1F1F1;
+    height:80% ;
+}
+.Bebas-Neue{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    line-height: 50px;
+
+}
+.heilight{
+    color:rgba(250, 190, 76, 1);
+    font-weight: 700;
+
+}
+.button-design{
+    padding: 10px 20px;
+    background-color: rgba(100, 150, 34, 1);
+    color: white;
+    border-radius: 10px;
+}
+.heading-color{
+    color: rgba(54, 57, 88, 1);
+    font-weight: 700;
+}
+
+.copyright {
+	background-color: #c4b38f;
+	padding: 5px 0px;
+    margin-top: 10px;
+    text-align: center;
+}
+.newtt p {color: #fff; text-align: center; margin-top: 35px;}
+.newtetter {display: inline-block;}
+.newtetter .tetter {
+	width: 231px;
+	padding: 7px 20px;
+border-radius: inherit;
+border: indianred}
+.logo1 {
+    margin-bottom: 10px;
+    width: 200px;
+}
+.border1 {border-bottom: rgb(242, 243, 238) solid 1px;}
+.new {text-align: center; margin-top: 40px;}
+.new h3 {color: #fff; font-size:20px; display:inline-block; padding-right: 15px;}
+.footer {
+	background: #0c0c0c;
+    padding-top: 90px;
+}
+ul.sociel {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:center;
+	margin: 0 auto;
+}
+ul.sociel li {
+	display: inline-block;
+	padding:0px 5px;
+	}
+
+ul.sociel li a {
+color: #fff;
+width: 40px;
+height: 40px;
+float: left;
+text-align: center;
+line-height: 50px;
+border-radius: 100%;
+font-size: 18px;
+}
+
+
+  ul.sociel li a:hover {color: #d2390a;}
+.contact {
+	margin-top: 90px;
+}
+
+.contact h3 {
+	color: #fff;
+	font-weight: 500;
+	font-size: 28px;
+    		line-height: 30px;
+	padding-bottom: 30px;
+	text-transform: uppercase;
+}
+
+.contact span {
+	color: #fff;
+	font-size: 17px;
+	line-height: 27px;
+}
+ul.lik {text-align: center; margin-top: 10px;}
+ul.lik li {display: inline-block; }
+ul.lik li a {
+	color: #fff;
+	font-size: 17px;
+	line-height: 27px;
+	padding: 0px 15px;
+	text-transform: uppercase;
+}
+
+ul.lik li a:hover {
+	color: #4eddd2;
+}
+/* Shopping card */
+.panda-card{
+    border: 0;
+    background-color:white;
+}
+.card-img{
+    background-color: #F1F1F1;
+    width: 90%;
+    height: 300px;
+    align-items: center;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+.card-img img{
+	height: 90%;
+	width: 100%;
+	object-fit:contain;
+	margin: auto;
+}
+.single-item-bg{
+    background-color: #F1F1F1;
+}
+.panda-card-footer{
+    border: 0;
+    background-color:white;
+    
+}
