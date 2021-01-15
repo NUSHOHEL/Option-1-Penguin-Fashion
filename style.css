@@ -28,13 +28,14 @@
 }
 .Bebas-Neue{
     font-family: 'Bebas Neue', cursive;
-    font-size: 50px;
-    line-height: 50px;
-
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: 3px;
 }
 .heilight{
     color:rgba(250, 190, 76, 1);
-    font-weight: 700;
+    font-weight: 400;
+    line-height: 20px;
 
 }
 .button-design{
@@ -153,4 +154,14 @@ ul.lik li a:hover {
     border: 0;
     background-color:white;
     
+}
+.item-title{
+    text-align: left;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.item-paragraph{
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
 }
